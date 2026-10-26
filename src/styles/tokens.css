@@ -1,0 +1,51 @@
+:root {
+  /* Colour: ultramarine on cool paper, with ink navy for weight. Status colours are reserved for results. */
+  --ink: #0e1b2e;
+  --ink-2: #2b3a52;
+  --slate: #556175;
+  --line: #d3dae6;
+  --line-strong: #aab6c9;
+  --mist: #edf1f7;
+  --paper: #f8fafd;
+  --white: #ffffff;
+
+  --ultra: #2347d6;
+  --ultra-deep: #162e9a;
+  --ultra-tint: #e6ecfd;
+  --beam: #6ea0ff;
+
+  --ok: #0a6b43;
+  --ok-deep: #074d31;
+  --ok-tint: #e2f3ea;
+  --warn: #8a5200;
+  --warn-ink: #4a2c00;
+  --warn-tint: #fff0d1;
+  --warn-line: #e0a33a;
+  --bad: #a32a25;
+  --bad-tint: #fbe6e4;
+
+  /* Type */
+  --font-display: 'Bricolage Grotesque', 'Segoe UI', system-ui, sans-serif;
+  --font-body: 'Atkinson Hyperlegible', 'Segoe UI', system-ui, sans-serif;
+
+  /* Spacing (4px base) */
+  --s1: 0.25rem;
+  --s2: 0.5rem;
+  --s3: 0.75rem;
+  --s4: 1rem;
+  --s5: 1.5rem;
+  --s6: 2rem;
+  --s7: 3rem;
+  --s8: 4rem;
+
+  /* Radii step with importance: inputs/buttons < cards < big panels */
+  --r-sm: 10px;
+  --r-md: 14px;
+  --r-lg: 24px;
+  --r-pill: 999px;
+
+  --shadow: 0 1px 2px rgba(14, 27, 46, 0.06), 0 8px 24px -12px rgba(14, 27, 46, 0.25);
+
+  --tab-h: 68px;
+  --rail-w: 264px;
+}
